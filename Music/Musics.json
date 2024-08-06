@@ -1,0 +1,12 @@
+{
+    "music": {
+        "aria_math": "./Music/aria_math.wav",
+        "calm": "./Music/calm.wav",
+        "living_mice": "./Music/living_mice.wav",
+        "moog_city": "./Music/moog_city.wav",
+        "stal": "./Music/stal.wav",
+        "subwoofer_lullaby": "./Music/subwoofer_lullaby.wav",
+        "sweden": "./Music/sweden.wav",
+        "wet_hands": "./Music/wet_hands.wav"
+    }
+}

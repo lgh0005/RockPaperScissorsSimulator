@@ -1,0 +1,13 @@
+{
+    "sounds": {
+        "ResetWarning": "./Sounds/anvil_1.wav",
+        "Reset": "./Sounds/anvil_5.wav",
+        "Click": "./Sounds/Click.wav",
+        "Rock": "./Sounds/Rock.wav",
+        "Paper": "./Sounds/Paper.wav",
+        "Scissors": "./Sounds/Scissors.wav",
+        "Draw": "./Sounds/draw.wav",
+        "Lose": "./Sounds/oouf.wav",
+        "Win": "./Sounds/xp.wav"
+    }
+}
